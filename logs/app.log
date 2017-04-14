@@ -1,0 +1,36 @@
+2017-04-14T05:02:25,933Z [main] DEBUG rente.ws - WebSocket connection stopped
+2017-04-14T05:02:25,938Z [main] DEBUG rente.ws - WebSocket connection started
+2017-04-14T05:02:25,940Z [main] DEBUG rente.app - Application logic started
+2017-04-14T05:02:25,940Z [main] DEBUG rente.server - HTTP server stopped
+2017-04-14T05:02:25,952Z [main] DEBUG rente.server - HTTP server started
+2017-04-14T05:02:25,952Z [main] INFO  rente.run - rente started
+2017-04-14T10:06:45,218Z [main] DEBUG rente.ws - WebSocket connection stopped
+2017-04-14T10:06:45,223Z [main] DEBUG rente.ws - WebSocket connection started
+2017-04-14T10:06:45,225Z [main] DEBUG rente.app - Application logic started
+2017-04-14T10:06:45,225Z [main] DEBUG rente.server - HTTP server stopped
+2017-04-14T10:06:45,236Z [main] DEBUG rente.server - HTTP server started
+2017-04-14T10:06:45,236Z [main] INFO  rente.run - rente started
+2017-04-14T11:09:59,398Z [main] DEBUG rente.ws - WebSocket Connection Stopped
+2017-04-14T11:09:59,403Z [main] DEBUG rente.ws - WebSocket Connection Started
+2017-04-14T11:09:59,405Z [main] DEBUG rente.app - Application Logic Started
+2017-04-14T11:09:59,406Z [main] DEBUG rente.server - HTTP Server Stopped
+2017-04-14T11:09:59,417Z [main] DEBUG rente.server - HTTP Server Started
+2017-04-14T11:09:59,417Z [main] INFO  rente.run - WebApp Started
+2017-04-14T12:17:09,850Z [main] DEBUG rente.ws - WebSocket Connection Stopped
+2017-04-14T12:17:09,855Z [main] DEBUG rente.ws - WebSocket Connection Started
+2017-04-14T12:17:09,857Z [main] DEBUG rente.app - Application Logic Started
+2017-04-14T12:17:09,857Z [main] DEBUG rente.server - HTTP Server Stopped
+2017-04-14T12:17:09,868Z [main] DEBUG rente.server - HTTP Server Started
+2017-04-14T12:17:09,869Z [main] INFO  rente.run - WebApp Started
+2017-04-14T13:02:04,546Z [main] DEBUG rente.ws - WebSocket Connection Stopped
+2017-04-14T13:02:04,551Z [main] DEBUG rente.ws - WebSocket Connection Started
+2017-04-14T13:02:04,553Z [main] DEBUG rente.app - Application Logic Started
+2017-04-14T13:02:04,553Z [main] DEBUG rente.server - HTTP Server Stopped
+2017-04-14T13:02:04,564Z [main] DEBUG rente.server - HTTP Server Started
+2017-04-14T13:02:04,564Z [main] INFO  rente.run - WebApp Started
+2017-04-14T13:03:09,407Z [main] DEBUG rente.ws - WebSocket Connection Stopped
+2017-04-14T13:03:09,412Z [main] DEBUG rente.ws - WebSocket Connection Started
+2017-04-14T13:03:09,414Z [main] DEBUG rente.app - Application Logic Started
+2017-04-14T13:03:09,414Z [main] DEBUG rente.server - HTTP Server Stopped
+2017-04-14T13:03:09,425Z [main] DEBUG rente.server - HTTP Server Started
+2017-04-14T13:03:09,425Z [main] INFO  rente.run - WebApp Started
